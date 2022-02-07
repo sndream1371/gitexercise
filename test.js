@@ -19,3 +19,7 @@ e) engegy
 f) find
 g) growth
 
+------
+수정 2
+------
+수정배포 2..toExponential.apply...............AbortController.........AbortController.apply...
